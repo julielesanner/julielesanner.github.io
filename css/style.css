@@ -1,0 +1,90 @@
+body {
+    background-color: white;
+    font-family: Georgia;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: none !important;
+    color: black;
+}
+
+.headline {
+    padding: 20px;
+}
+
+.headline a {
+    text-decoration: none;
+}
+
+.nav-link {
+    color: black;
+
+}
+
+.nav-link:hover {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.triangle {
+    font-size: 0.7rem;
+    vertical-align: middle;
+}
+
+.sub-link {
+    font-size: 0.8rem;
+    margin-left: 18px;
+}
+
+.sub-link:hover {
+    font-size: 0.9rem !important;
+    font-weight: bold;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 0.6rem;
+}
+
+.video-title {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.video iframe {
+    width: 100%;
+    height: 25vw;
+}
+
+.video-description {
+    margin-top: 15px;
+    margin-bottom: 160px;
+}
+
+.static-nav {
+    text-decoration: none !important;
+    color: black;
+}
+
+.static-nav:hover {
+    font-weight: bold;
+    color: black;
+}
+
+.nav-active {
+    font-weight: bold;
+}
+
+.large-text {
+    font-size: 1.1rem;
+}
+
+.bold-link {
+    font-weight: bold;
+    color: black;
+}
+
+
